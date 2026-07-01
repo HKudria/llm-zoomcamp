@@ -3,3 +3,6 @@
 .env
 .claude
 .ipynb_checkpoints
+02-vector-search/models
+02-vector-search/faq_vectors2.db
+__pycache__
