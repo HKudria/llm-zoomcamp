@@ -21,6 +21,8 @@ dependencies = [
     "tokenizers>=0.22.2",
     "toyaikit>=0.0.11",
     "tqdm>=4.68.2",
+    "opentelemetry-api>=1.44.0",
+    "opentelemetry-sdk>=1.44.0",
 ]
 
 [dependency-groups]
